@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<launch>
+    <remap from="/mini_wamv/motor/motor_value" to="/pc/driver/motor_value" />
+    <node ns="pc" pkg="mini_wamv" type="control_ui_node.py" name="driver" output="screen" clear_params="true" required="true"></node>
+</launch>

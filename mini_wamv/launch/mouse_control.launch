@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<launch>
+    <node ns="mini_wamv" pkg="mini_wamv" type="control_ui_node.py" name="driver" output="screen" clear_params="true" required="true"></node>
+    <node ns="mini_wamv" pkg="mini_wamv" type="wamv_simple_driver.py" name="motor" output="screen" clear_params="true" required="true"></node>
+</launch>

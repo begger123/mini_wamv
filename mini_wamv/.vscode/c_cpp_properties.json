@@ -1,0 +1,49 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "",
+        "limitSymbolsToIncludedHeaders": true
+      },
+      "includePath": [
+        "/home/arg/duckietown/catkin_ws/devel/include",
+        "/opt/ros/kinetic/include",
+        "/home/arg/duckietown/catkin_ws/src/05-teleop/adafruit_drivers/include",
+        "/home/arg/duckietown/catkin_ws/src/10-lane-control/anti_instagram/include",
+        "/home/arg/duckietown/catkin_ws/src/20-indefinite-navigation/apriltags_ros/apriltags/include",
+        "/home/arg/duckietown/catkin_ws/src/20-indefinite-navigation/apriltags_ros/apriltags_ros/include",
+        "/home/arg/duckietown/catkin_ws/src/10-lane-control/complete_image_pipeline/include",
+        "/home/arg/duckietown/catkin_ws/src/05-teleop/dagu_car/include",
+        "/home/arg/duckietown/catkin_ws/src/70-convenience-packages/duckiebot_visualizer/include",
+        "/home/arg/duckietown/catkin_ws/src/00-infrastructure/duckieteam/include",
+        "/home/arg/duckietown/catkin_ws/src/00-infrastructure/duckietown/include",
+        "/home/arg/duckietown/catkin_ws/src/30-localization-and-planning/duckietown_description/include",
+        "/home/arg/duckietown/catkin_ws/src/00-infrastructure/easy_algo/include",
+        "/home/arg/duckietown/catkin_ws/src/00-infrastructure/easy_logs/include",
+        "/home/arg/duckietown/catkin_ws/src/00-infrastructure/easy_node/include",
+        "/home/arg/duckietown/catkin_ws/src/00-infrastructure/easy_regression/include",
+        "/home/arg/duckietown/catkin_ws/src/20-indefinite-navigation/fsm/include",
+        "/home/arg/duckietown/catkin_ws/src/10-lane-control/ground_projection/include",
+        "/home/arg/duckietown/catkin_ws/src/20-indefinite-navigation/intersection_control/include",
+        "/home/arg/duckietown/catkin_ws/src/10-lane-control/lane_filter/include",
+        "/home/arg/duckietown/catkin_ws/src/40-coordination/led_detection/include",
+        "/home/arg/duckietown/catkin_ws/src/40-coordination/led_interpreter/include",
+        "/home/arg/duckietown/catkin_ws/src/10-lane-control/line_detector/include",
+        "/home/arg/duckietown/catkin_ws/src/10-lane-control/line_detector2/include",
+        "/home/arg/duckietown/catkin_ws/src/30-localization-and-planning/localization/include",
+        "/home/arg/duckietown/catkin_ws/src/50-misc-additional-functionality/mdoap/include",
+        "/home/arg/duckietown/catkin_ws/src/20-indefinite-navigation/navigation/include",
+        "/home/arg/duckietown/catkin_ws/src/05-teleop/pi_camera/include",
+        "/home/arg/duckietown/catkin_ws/src/60-templates/pkg_name/include",
+        "/home/arg/duckietown/catkin_ws/src/40-coordination/rgb_led/include",
+        "/home/arg/duckietown/catkin_ws/src/60-templates/rostest_example/include",
+        "/home/arg/duckietown/catkin_ws/src/40-coordination/traffic_light/include",
+        "/home/arg/duckietown/catkin_ws/src/70-convenience-packages/veh_coordinator/include",
+        "/home/arg/duckietown/catkin_ws/src/50-misc-additional-functionality/vehicle_detection/include",
+        "/home/arg/duckietown/catkin_ws/src/00-infrastructure/what_the_duck/include",
+        "/usr/include"
+      ],
+      "name": "Linux"
+    }
+  ]
+}
